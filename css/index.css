@@ -1,5 +1,2 @@
-@import url(globals.css);
-@import url(components.css);
-@import url(header.css);
-@import url(products.css);
-@import url(footer.css);
+@import url(global.css);
+@import url(bootstrap-overrides.css);
